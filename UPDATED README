@@ -1,1 +1,49 @@
+Project Overview
 
+GrievAI is an AI-powered grievance redressal platform built to improve how public governance bodies handle citizen complaints.
+Traditional grievance systems rely heavily on manual review, leading to delays, backlog, and lack of prioritization.
+
+GrievAI uses Natural Language Processing (NLP) to automatically analyze grievance text, classify complaints into relevant categories, assign priority based on urgency and severity, and assist in routing them to the appropriate department.
+A centralized dashboard provides authorities with real-time visibility into complaint status, priority levels, and trends, enabling faster and more transparent decision-making.
+
+The solution is designed to be scalable, cloud-ready, and practical, making it suitable for deployment at municipal, state, or national levels.
+
+Setup & Installation Instructions
+Prerequisites
+
+Node.js (v18 or above)
+
+Git
+
+npm (comes with Node.js)
+Usage Instructions
+
+Citizens can submit grievances through the user interface.
+
+Each grievance is analyzed using NLP techniques to understand its content.
+
+The system automatically:
+
+Classifies the grievance
+
+Assigns a priority level based on urgency and severity
+
+Authorities can view all grievances on the dashboard with:
+
+Priority indicators
+
+Current status (pending, in progress, resolved)
+
+Analytical insights and trends
+
+This enables officials to focus on high-impact and urgent grievances first, improving resolution speed and transparency.
+
+✅ Why this works for reviewers
+
+Simple language (no heavy jargon)
+
+Clearly explains what the project does
+
+Explains how to run it
+
+Explains how it is used in real life
