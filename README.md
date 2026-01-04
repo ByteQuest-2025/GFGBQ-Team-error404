@@ -8,4 +8,4 @@ Problem Statement:-PS-12: AI for Grievance Redressal in Public Governance.
 Project Name:- GrievAi
 <br>
 <br>
-link:-https://drive.google.com/drive/folders/1S1sSzoNpjZKjJUiBhRlp9WQetXd73-8h?usp=drive_link
+link:-https://drive.google.com/file/d/1uQEsU0AI49_4sPwEpZS9Cy2wCfxKFxmF/view?usp=drive_link
